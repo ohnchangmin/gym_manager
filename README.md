@@ -6,7 +6,9 @@
 
 ![gym_main](https://user-images.githubusercontent.com/81130440/132293345-3e7dfa15-6c3d-4ef9-b44c-e877f4252ac4.PNG)
 
-관리자 로그인 화면입니다
+관리자 로그인 화면입니다.
+개선점:
+예외처리-공백 입력 막기
 
 
 ![gym_login](https://user-images.githubusercontent.com/81130440/132293418-23b74ca6-4118-4e2e-a818-4748d11347b1.PNG)
